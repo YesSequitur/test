@@ -1,6 +1,6 @@
 ntp server 99.99.99.99
 snmp-server group IPvZero v3 priv read john write test
-logging host 99.99.99.99
+logging host 77.77.77.77
 
 router ospf 1
 router eigrp 3
