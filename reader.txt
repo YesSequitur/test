@@ -1,4 +1,4 @@
-ntp server 99.99.99.99
+ntp server 66.66.66.66
 snmp-server group IPvZero v3 priv read john write test
 logging host 77.77.77.77
 
