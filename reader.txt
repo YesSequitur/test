@@ -1,2 +1,2 @@
-ntpp server 99.99.99.99
+nntpp server 99.99.99.99
 
